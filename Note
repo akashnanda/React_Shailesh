@@ -1,0 +1,9 @@
+.css-ahj2mt-MuiTypography-root{
+    cursor: pointer;
+}
+
+
+
+let [count, setCount] = useState(100);
+setCount(filteredRows.length);
+<p>{count} rows | 3 columns</p>
